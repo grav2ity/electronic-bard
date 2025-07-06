@@ -1,5 +1,7 @@
 # electronic-bard
 
+[english version](english.md)
+
 *W tym celu zgromadził Trurl osiemset dwadzieścia ton literatury cybernetycznej oraz dwanaście tysięcy ton poezji i zabrał się do studiów.<br>
 Kiedy już nie mógł wytrzymać od cybernetyki, przerzucał się do liryki, i na odwrót.*
 
